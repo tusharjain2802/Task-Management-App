@@ -2,7 +2,7 @@
 
 # 📝 Task Management System (Full-Stack)
 
-A full-stack task management application that allows users to securely register, log in, and manage their personal tasks with full CRUD functionality. Built using **Node.js, TypeScript, SQL, Prisma, and Next.js**.
+A full-stack task management application that allows users to securely register, log in, and manage their personal tasks with full CRUD functionality. Built using **Node.js, TypeScript, SQL, and Next.js**.
 
 ---
 
@@ -93,13 +93,13 @@ A full-stack task management application that allows users to securely register,
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
 ```
-### 2. 
+### 2. Backend Setup
 ```bash
 cd server
 npm install
 ```
 
-3. Frontend setup
+3. Frontend Setup
 ```bash
 cd ../client
 npm install
