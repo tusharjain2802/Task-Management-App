@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "Comfy Feeling";
+    src: url("./assets/fonts/ComfyFeeling.otf") format("opentype");
+}
+
+
+@font-face {
+    font-family: "Friday13SH";
+    src: url("./assets/fonts/Friday13SH.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Friday13 Bonus NFI";
+    src: url("./assets/fonts/Friday13.otf") format("opentype");
+}
