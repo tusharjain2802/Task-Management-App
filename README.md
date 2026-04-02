@@ -63,23 +63,26 @@ A full-stack task management application that allows users to securely register,
 
 ## 📁 Project Structure
 
-/backend  
+/server  
 &nbsp;&nbsp;/src  
 &nbsp;&nbsp;&nbsp;&nbsp;/controllers  
 &nbsp;&nbsp;&nbsp;&nbsp;/routes  
+&nbsp;&nbsp;&nbsp;&nbsp;/config
 &nbsp;&nbsp;&nbsp;&nbsp;/middlewares  
-&nbsp;&nbsp;&nbsp;&nbsp;/services  
+&nbsp;&nbsp;&nbsp;&nbsp;/models  
 &nbsp;&nbsp;&nbsp;&nbsp;/utils  
-&nbsp;&nbsp;prisma/  
-&nbsp;&nbsp;app.ts  
+&nbsp;&nbsp;index.js  
 
-/frontend  
+/client  
 &nbsp;&nbsp;/app  
 &nbsp;&nbsp;&nbsp;&nbsp;/login  
 &nbsp;&nbsp;&nbsp;&nbsp;/register  
 &nbsp;&nbsp;&nbsp;&nbsp;/dashboard  
 &nbsp;&nbsp;/components  
-&nbsp;&nbsp;/services  
+&nbsp;&nbsp;/layout
+&nbsp;&nbsp;/pages  
+&nbsp;&nbsp;/assets
+&nbsp;&nbsp;/asssets
 
 ---
 
